@@ -1,2 +1,2 @@
 # RTLtoDialog
-Sublime Plugin to show RTL text on Dialog box
+Sublime Plugin to show RTL text on Dialog box on Hover
